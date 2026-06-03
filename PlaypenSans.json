@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "PlaypenSans",
+  "previewText": "idk",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-ExtraBold.ttf",
+    "ggsans-Bold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-ExtraBold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-ExtraBold.ttf",
+  	"ggsans-Medium": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Medium.ttf",
+  	"ggsans-MediumItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Medium.ttf",
+  	"ggsans-Normal": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Regular.ttf",
+  	"ggsans-NormalItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Regular.ttf",
+  	"ggsans-Semibold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-SemiBold.ttf",
+  	"ggsans-SemiboldItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-SemiBold.ttf",
+  	"NotoSans-Bold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Bold.ttf",
+  	"NotoSans-ExtraBold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-ExtraBold.ttf",
+  	"NotoSans-Medium": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Medium.ttf",
+  	"NotoSans-Normal": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Regular.ttf",
+  	"NotoSans-NormalItalic": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-Regular.ttf",
+  	"NotoSans-Semibold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-SemiBold.ttf",
+  	"SourceCodePro-Semibold": "https://github.com/Pruuingoo/Revenge-fonts/raw/refs/heads/main/PlaypenSans-SemiBold.ttf"
+  }
+}
